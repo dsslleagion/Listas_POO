@@ -1,7 +1,5 @@
 # FATEC Profº Jessen Vidal, SJC - 3º Semestre ADS
 
-# FATEC Profº Jessen Vidal, SJC - 3º Semestre ADS
-
 # Atividade 2- Programação Orientada a Objeto
 
 O sistema desenvolvido para o grupo WB foi um sucesso. Todas as franquias do grupo adotam a solução desenvolvida por você, na sua empresa especializada em desenvolvimento de software. Mas, apesar de todo o sucesso, há uma questão ainda não resolvida. O sistema não tem uma GUI. Sem GUI, o uso do sistema tornou-se inapropriado para um ambiente web, onde a ferramenta principal é o navegador. Desta forma, corre-se o risco de o software tornar-se defasado e perder para concorrências futuras. Por isso, o próximo objetivo do desenvolvimento e atualizar o sistema com uma GUI moderna e que funcione tanto em navegadores comuns quanto em navegadores de dispositivos móveis, como celulares e/ou tablets por exemplo.
