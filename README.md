@@ -19,9 +19,13 @@ Para executar a aplicação, certifique-se de ter instalado o nodeJS em seu comp
 
 
 <!-- This content will not appear in the rendered Markdown -->
-- Faça o  clone do repositori
+- Faça o  clone do repositorio:
 
-git clone 
+git clone https://github.com/dsslleagion/Listas_POO.git
+
+- Depois entre no CMD dentro da pasta com o git clonado e de o comando:
+
+git checkout AtvI
 
 
 
