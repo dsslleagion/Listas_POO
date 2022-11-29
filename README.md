@@ -30,6 +30,7 @@ git checkout AtvI
 - Depois entre com o Vs code na pasta do projeto e abra o terminal para inserir os comandos:
 
 npm i
+##
 npx tsc ou tsc
 
 - execute a aplicação pelo seguinte comando:
