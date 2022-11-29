@@ -26,5 +26,12 @@ git clone https://github.com/dsslleagion/Listas_POO.git
 
 git checkout AtvII
 
-- 
+- Agore instale as dependências do projeto após abrir o projeto e abra o terminal e digite:
+
+npm i
+
+- Execute a aplicação pelo seguinte comando :
+
+npm run start ou npm start
+
 
