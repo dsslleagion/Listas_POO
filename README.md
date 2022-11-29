@@ -19,6 +19,9 @@ Para executar a aplicação, certifique-se de ter instalado o nodeJS em seu comp
 
 
 <!-- This content will not appear in the rendered Markdown -->
+- Faça o  clone do repositori
+
+git clone 
 
 
 
