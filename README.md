@@ -15,6 +15,7 @@ Nome            | GitHub                                                       |
 
 # Para executar uma aplicação
 
+Para executar a aplicação, certifique-se de ter instalado o nodeJS em seu computador:
 
 
 
