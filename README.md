@@ -18,8 +18,7 @@ Nome            | GitHub                                                       |
 Para executar a aplicação, certifique-se de ter instalado o nodeJS em seu computador:
 
 
-
-
+<!-- This content will not appear in the rendered Markdown -->
 
 
 
