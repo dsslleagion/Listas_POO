@@ -1,2 +1,3 @@
-# Listas_POO
-listas de exercicios de Programação orientada a objetos do Professor Gerson
+# FATEC Profº Jessen Vidal, SJC - 3º Semestre ADS
+
+
