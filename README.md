@@ -19,18 +19,18 @@ Para executar a aplicação, certifique-se de ter instalado o nodeJS em seu comp
 
 
 - Faça o  clone do repositorio:
-
+```
 git clone https://github.com/dsslleagion/Listas_POO.git
-
+```
 - Depois entre no CMD dentro da pasta com o git clonado e de o comando:
-
+```
 git checkout AtvIII
-
+```
 - Agore instale as dependências do projeto após abrir o projeto e abra o terminal e digite:
-
+```
 npm i
-
+```
 - Execute a aplicação pelo seguinte comando :
-
+```
 npm run start ou npm start
-
+```
