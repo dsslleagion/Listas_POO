@@ -19,26 +19,33 @@ Nome            | GitHub                                                       |
 
 -Após a instalação:
 
+```
 Clique na conexão "Local instance"
 Na aba Server, clique em Data Import
 Em seguida, clique no checkbox Import from Self-Contained File
 importe o arquivo wb_banco2
 Em Default Target Schema, crie um novo schema chamado "wb_banco2".
 Clique na aba "Import Progress", e por fim "Start Import"
+```
 Para executar a aplicação, certifique-se de ter instalado o NodeJs em seu computador:
 
  - Faça o clone do repositório:
+ ```
 git clone 
+```
 Na pasta raiz do projeto, digite:
-
+```
 git checkout AtvV
-
+```
 - Na pasta Backend/Conexao, no arquivo conexao.js, mude a senha para a mesma senha que você cadastrou no seu Workbench para o usuário root, e em seguida, execute o seguinte comando para executar:
+```
 cd front
 npm start
 cd ..
 cd Backend
 npm start
+
+```
 
 
 
