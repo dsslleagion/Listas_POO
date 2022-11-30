@@ -24,18 +24,19 @@ Para executar a aplicação, certifique-se de ter instalado o nodeJS em seu comp
 git clone https://github.com/dsslleagion/Listas_POO.git
 ```
 - Depois entre no CMD dentro da pasta com o git clonado e de o comando:
-
+```
 git checkout AtvI
-
+```
 - Depois entre com o Vs code na pasta do projeto e abra o terminal para inserir os comandos:
-
+```
 npm i
-##
 npx tsc ou tsc
+```
 
 - execute a aplicação pelo seguinte comando:
-
+```
 node out/app/main.js
+```
 
 
 
