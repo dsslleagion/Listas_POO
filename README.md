@@ -17,7 +17,7 @@ Nome            | GitHub                                                       |
 
 É necessário instalar o MYSQL Workbench.
 
--Após a instalação:
+Após a instalação:
 
 - Clique na conexão "Local instance"
 - Na aba Server, clique em Data Import
