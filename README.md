@@ -19,14 +19,13 @@ Nome            | GitHub                                                       |
 
 -Após a instalação:
 
-```
-Clique na conexão "Local instance"
-Na aba Server, clique em Data Import
-Em seguida, clique no checkbox Import from Self-Contained File
-importe o arquivo wb_banco
-Em Default Target Schema, crie um novo schema chamado "wb_banco".
-Clique na aba "Import Progress", e por fim "Start Import"
-```
+- Clique na conexão "Local instance"
+- Na aba Server, clique em Data Import
+- Em seguida, clique no checkbox Import from Self-Contained File
+- importe o arquivo wb_banco
+- Em Default Target Schema, crie um novo schema chamado "wb_banco".
+- Clique na aba "Import Progress", e por fim "Start Import"
+
 Para executar a aplicação, certifique-se de ter instalado o NodeJs em seu computador:
 
  - Faça o clone do repositório:
