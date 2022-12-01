@@ -31,7 +31,7 @@ Para executar a aplicação, certifique-se de ter instalado o NodeJs em seu comp
 
  - Faça o clone do repositório:
  ```
-git clone 
+git clone https://github.com/dsslleagion/Listas_POO.git
 ```
 Na pasta raiz do projeto, digite:
 ```
