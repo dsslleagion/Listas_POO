@@ -37,15 +37,21 @@ Na pasta raiz do projeto, digite:
 git checkout AtvV
 ```
 - Na pasta Backend/Conexao, no arquivo conexao.js, mude a senha para a mesma senha que você cadastrou no seu Workbench para o usuário root, e em seguida, abra dois terminais dentro do projeto com VScode e execute o seguinte comando para executar:
+
+- para a pasta front abra um terminal unico
 ```
-para a pasta front abra um terminal unico
 cd front
+```
+```
 npm start
+```
 
-para a pasta Backend abra um terminal unico
+- para a pasta Backend abra um terminal unico
+```
 cd Backend
+```
+```
 npm start
-
 ```
 
 
